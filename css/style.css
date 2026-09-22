@@ -1954,6 +1954,26 @@ button, input, select, textarea {
     width: 100%;
   }
 
+  .hero-visual {
+    width: min(100%, 360px);
+    margin: 0 auto;
+  }
+
+  .hero-image-wrapper {
+    max-width: 100%;
+    border-radius: 140px 140px 26px 26px;
+  }
+
+  .hero-script-flourish {
+    left: 12px;
+    bottom: 12px;
+  }
+
+  .hero-script-flourish span {
+    font-size: 1.8rem;
+    line-height: 1;
+  }
+
   .trust-strip {
     grid-template-columns: 1fr;
     gap: 16px;
