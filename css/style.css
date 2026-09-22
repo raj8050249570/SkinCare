@@ -315,6 +315,13 @@ button, input, select, textarea {
   height: 100%;
 }
 
+.brand-logo-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
 .brand-text {
   display: flex;
   flex-direction: column;
