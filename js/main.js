@@ -187,21 +187,21 @@ const treatmentDetailsData = {
       "✓ Custom post-care regimen",
     ],
   },
-  brightening: {
-    title: "Skin Brightening",
-    subtitle: "Improve skin tone and restore natural Celebrity Smile",
-    img: "assets/images/treatment-brightening.jpg",
-    tags: ["Instant Glow", "60 Mins", "Safe for Indian Skin"],
-    desc: "A dermatologist-designed Celebrity Smile therapy utilizing antioxidant glutathione infusions, medical micro-infusions, and gentle brightening agents to restore skin luminosity, even out dullness, and impart an lit-from-within healthy glow.",
-    benefits: [
-      "✓ Enhances natural luminosity",
-      "✓ Reduces sun tan & dullness",
-      "✓ Deeply nourishes skin barrier",
-      "✓ Stimulates cell renewal",
-      "✓ Evens out skin discoloration",
-      "✓ Long-lasting fresh Celebrity Smile",
-    ],
-  },
+  tanRemoval: {
+  title: "Tan Removal",
+  subtitle: "Reduce tanning and restore a brighter, more even-looking skin tone",
+  img: "assets/images/treatment-brightening.jpg",
+  tags: ["Customized Care", "30-45 Mins", "Personalized"],
+  desc: "A personalized tan-removal approach designed to help reduce the appearance of sun tan, dullness and uneven skin tone. Treatment is selected according to your skin type, level of tanning and individual skin concerns.",
+  benefits: [
+    "✓ Helps reduce the appearance of sun tan",
+    "✓ Improves uneven-looking skin tone",
+    "✓ Helps restore a fresh, radiant appearance",
+    "✓ Supports smoother-looking skin",
+    "✓ Customized according to your skin type",
+    "✓ Personalized post-treatment care guidance",
+  ],
+},
   antiaging: {
     title: "Anti-Aging Therapy",
     subtitle: "Reduce fine lines, wrinkles & visible signs of aging",
@@ -235,7 +235,7 @@ const treatmentDetailsData = {
   hairMicroneedling: {
     title: "Hair Microneedling",
     subtitle: "Microneedling-based care for healthier-looking hair",
-    img: "assets/images/treatment-HairMicroneedling.jpeg",
+    img: "assets/images/treatment-HairMicroneedling.jpg",
     tags: ["Scalp Care", "30-45 Mins", "Minimal Downtime"],
     desc: "Hair microneedling uses controlled micro-injuries on the scalp to support the skin's natural regenerative response. It may be recommended as part of a personalized hair-care plan based on your scalp condition and hair concerns.",
     benefits: [
